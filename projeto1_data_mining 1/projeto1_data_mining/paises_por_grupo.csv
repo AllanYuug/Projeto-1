@@ -1,0 +1,168 @@
+country,child_mort,income,inflation,health,imputado,grupo,silhueta,grupo_ward,cenarios_prioritario,classificacao
+Haiti,208.0,1500.0,5.45,6.91,,"A. Alta necessidade, saúde subfinanciada",0.309,6,9/9,Prioridade confirmada
+Chad,150.0,1930.0,6.39,4.53,,"A. Alta necessidade, saúde subfinanciada",0.553,6,9/9,Prioridade confirmada
+Central African Republic,149.0,888.0,2.01,3.98,,"A. Alta necessidade, saúde subfinanciada",0.503,6,9/9,Prioridade confirmada
+Mali,137.0,1870.0,4.37,4.98,,"A. Alta necessidade, saúde subfinanciada",0.553,6,9/9,Prioridade confirmada
+Niger,123.0,814.0,2.55,5.16,,"A. Alta necessidade, saúde subfinanciada",0.484,6,9/9,Prioridade confirmada
+Burkina Faso,116.0,1430.0,6.81,6.74,,"A. Alta necessidade, saúde subfinanciada",0.382,6,9/9,Prioridade confirmada
+Benin,111.0,1820.0,0.88,4.1,,"A. Alta necessidade, saúde subfinanciada",0.473,6,9/9,Prioridade confirmada
+Cote d'Ivoire,111.0,2690.0,5.39,5.3,,"A. Alta necessidade, saúde subfinanciada",0.508,6,9/9,Prioridade confirmada
+Cameroon,108.0,2660.0,1.91,5.13,,"A. Alta necessidade, saúde subfinanciada",0.452,6,9/9,Prioridade confirmada
+Mozambique,101.0,918.0,7.64,5.21,,"A. Alta necessidade, saúde subfinanciada",0.506,6,9/9,Prioridade confirmada
+Tanzania,94.09,2090.0,9.25,6.01,child_mort,"A. Alta necessidade, saúde subfinanciada",0.433,6,9/9,Prioridade confirmada
+Pakistan,92.1,4280.0,10.9,2.2,,"A. Alta necessidade, saúde subfinanciada",0.222,3,8/9,Prioridade confirmada
+Malawi,90.5,1030.0,12.1,6.59,,"A. Alta necessidade, saúde subfinanciada",0.204,6,9/9,Prioridade confirmada
+Togo,90.3,1210.0,1.18,7.65,,"A. Alta necessidade, saúde subfinanciada",0.124,6,9/9,Prioridade confirmada
+Afghanistan,90.2,1610.0,9.44,7.58,,"A. Alta necessidade, saúde subfinanciada",0.156,6,9/9,Prioridade confirmada
+Comoros,88.2,1410.0,3.87,4.51,,"A. Alta necessidade, saúde subfinanciada",0.548,6,9/9,Prioridade confirmada
+Gambia,80.3,1660.0,4.3,5.69,,"A. Alta necessidade, saúde subfinanciada",0.519,6,9/9,Prioridade confirmada
+Lao,78.9,3980.0,9.2,4.47,,"A. Alta necessidade, saúde subfinanciada",0.377,3,8/9,Prioridade confirmada
+Senegal,66.8,2180.0,1.85,5.66,,"A. Alta necessidade, saúde subfinanciada",0.399,6,9/9,Prioridade confirmada
+Myanmar,64.4,3720.0,7.04,1.97,,"A. Alta necessidade, saúde subfinanciada",0.314,3,7/9,Prioridade confirmada
+Kenya,62.2,2480.0,2.09,4.75,,"A. Alta necessidade, saúde subfinanciada",0.393,6,9/9,Prioridade confirmada
+Madagascar,62.2,1390.0,8.79,3.77,,"A. Alta necessidade, saúde subfinanciada",0.463,3,8/9,Prioridade confirmada
+Turkmenistan,62.0,9940.0,2.31,2.5,,"A. Alta necessidade, saúde subfinanciada",-0.0,3,1/9,Revisar caso a caso
+India,58.8,4410.0,8.98,4.05,,"A. Alta necessidade, saúde subfinanciada",0.287,3,6/9,Revisar caso a caso
+Eritrea,55.2,1420.0,11.6,2.66,,"A. Alta necessidade, saúde subfinanciada",0.253,3,8/9,Prioridade confirmada
+Tajikistan,52.4,2110.0,12.5,5.98,,"A. Alta necessidade, saúde subfinanciada",0.11,5,9/9,Prioridade confirmada
+Bangladesh,49.4,3303.12,7.14,3.52,income,"A. Alta necessidade, saúde subfinanciada",0.327,3,7/9,Prioridade confirmada
+Bolivia,46.6,5410.0,8.78,4.84,,"A. Alta necessidade, saúde subfinanciada",0.071,3,2/9,Revisar caso a caso
+Cambodia,44.4,2520.0,3.12,5.68,,"A. Alta necessidade, saúde subfinanciada",0.263,3,7/9,Prioridade confirmada
+Kyrgyz Republic,29.6,2790.0,10.0,6.18,,"A. Alta necessidade, saúde subfinanciada",0.072,4,4/9,Revisar caso a caso
+Vanuatu,29.2,2950.0,2.62,5.25,,"A. Alta necessidade, saúde subfinanciada",0.014,3,3/9,Revisar caso a caso
+Sierra Leone,165.0,1220.0,17.2,13.1,,"B. Alta necessidade, gasto em saúde alto",0.303,6,9/9,Prioridade confirmada
+Guinea-Bissau,114.0,1390.0,2.97,8.5,,"B. Alta necessidade, gasto em saúde alto",0.003,6,9/9,Prioridade confirmada
+Lesotho,99.7,2380.0,4.15,11.1,,"B. Alta necessidade, gasto em saúde alto",0.46,6,9/9,Prioridade confirmada
+Burundi,93.6,764.0,12.3,11.6,,"B. Alta necessidade, gasto em saúde alto",0.443,6,9/9,Prioridade confirmada
+Liberia,89.3,700.0,5.47,11.8,,"B. Alta necessidade, gasto em saúde alto",0.49,6,9/9,Prioridade confirmada
+Uganda,81.0,1540.0,10.6,9.01,,"B. Alta necessidade, gasto em saúde alto",0.178,6,9/9,Prioridade confirmada
+Rwanda,63.6,1350.0,2.61,10.5,,"B. Alta necessidade, gasto em saúde alto",0.435,6,9/9,Prioridade confirmada
+Kiribati,62.7,1730.0,1.52,11.3,,"B. Alta necessidade, gasto em saúde alto",0.467,6,9/9,Prioridade confirmada
+"Micronesia, Fed. Sts.",40.0,3340.0,3.8,14.2,,"B. Alta necessidade, gasto em saúde alto",0.409,6,8/9,Prioridade confirmada
+Solomon Islands,28.1,1780.0,6.81,8.55,,"B. Alta necessidade, gasto em saúde alto",0.082,6,8/9,Prioridade confirmada
+Moldova,17.2,3910.0,11.1,11.7,,"B. Alta necessidade, gasto em saúde alto",0.208,4,6/9,Revisar caso a caso
+Nigeria,130.0,5150.0,104.0,5.07,,"C. Alta necessidade, inflação alta",0.468,5,9/9,Prioridade confirmada
+Angola,119.0,5900.0,22.4,2.85,,"C. Alta necessidade, inflação alta",0.364,5,9/9,Prioridade confirmada
+"Congo, Dem. Rep.",116.0,609.0,20.8,7.91,,"C. Alta necessidade, inflação alta",0.205,5,9/9,Prioridade confirmada
+Equatorial Guinea,111.0,33700.0,24.9,4.48,,"C. Alta necessidade, inflação alta",0.039,5,4/9,Revisar caso a caso
+Guinea,109.0,1190.0,16.1,4.93,,"C. Alta necessidade, inflação alta",0.086,5,9/9,Prioridade confirmada
+Mauritania,97.4,3320.0,18.9,4.41,,"C. Alta necessidade, inflação alta",0.411,5,9/9,Prioridade confirmada
+Zambia,83.1,3280.0,14.0,5.89,,"C. Alta necessidade, inflação alta",0.06,5,9/9,Prioridade confirmada
+Sudan,76.7,3370.0,19.6,6.32,,"C. Alta necessidade, inflação alta",0.464,5,9/9,Prioridade confirmada
+Ghana,74.7,3060.0,16.6,5.22,,"C. Alta necessidade, inflação alta",0.315,5,9/9,Prioridade confirmada
+"Congo, Rep.",63.9,5190.0,20.7,2.46,,"C. Alta necessidade, inflação alta",0.279,5,9/9,Prioridade confirmada
+Timor-Leste,62.6,1850.0,26.5,9.12,,"C. Alta necessidade, inflação alta",0.295,5,9/9,Prioridade confirmada
+Yemen,56.3,4480.0,23.6,5.18,,"C. Alta necessidade, inflação alta",0.448,5,9/9,Prioridade confirmada
+Nepal,47.0,1990.0,15.1,5.25,,"C. Alta necessidade, inflação alta",0.105,5,9/9,Prioridade confirmada
+Iraq,36.9,12700.0,16.6,8.41,,"C. Alta necessidade, inflação alta",0.027,4,6/9,Revisar caso a caso
+Uzbekistan,36.3,4240.0,16.5,5.81,,"C. Alta necessidade, inflação alta",0.301,5,8/9,Prioridade confirmada
+Mongolia,26.1,7710.0,39.2,5.44,,"C. Alta necessidade, inflação alta",0.143,5,7/9,Prioridade confirmada
+Namibia,56.0,8460.0,3.56,6.78,,"D. Renda média, estável",0.221,3,1/9,Revisar caso a caso
+South Africa,53.7,12000.0,6.35,8.94,,"D. Renda média, estável",0.246,4,1/9,Revisar caso a caso
+Botswana,52.5,13300.0,8.92,8.3,,"D. Renda média, estável",0.287,4,1/9,Revisar caso a caso
+Bhutan,42.7,6420.0,5.99,5.2,,"D. Renda média, estável",0.121,3,1/9,Não prioritário
+Guyana,37.6,5840.0,5.73,5.38,,"D. Renda média, estável",0.164,3,1/9,Não prioritário
+Guatemala,35.4,6710.0,5.14,4.91,health,"D. Renda média, estável",0.225,3,0/9,Não prioritário
+Dominican Republic,34.4,11100.0,5.44,6.22,,"D. Renda média, estável",0.444,3,0/9,Não prioritário
+Morocco,33.5,6440.0,0.98,5.2,,"D. Renda média, estável",0.256,3,0/9,Não prioritário
+Philippines,31.9,5600.0,4.22,3.61,,"D. Renda média, estável",0.068,3,1/9,Não prioritário
+Egypt,29.1,9860.0,10.1,4.66,,"D. Renda média, estável",0.193,3,0/9,Não prioritário
+Cape Verde,26.5,5830.0,0.5,4.09,,"D. Renda média, estável",0.208,3,0/9,Não prioritário
+Ecuador,25.1,9350.0,7.47,8.06,,"D. Renda média, estável",0.441,4,0/9,Não prioritário
+Fiji,24.1,7350.0,4.23,4.86,,"D. Renda média, estável",0.399,3,0/9,Não prioritário
+Paraguay,24.1,7290.0,6.1,5.87,,"D. Renda média, estável",0.441,3,0/9,Não prioritário
+Suriname,24.1,14200.0,7.2,7.01,,"D. Renda média, estável",0.485,4,0/9,Não prioritário
+Vietnam,23.3,4490.0,12.1,6.84,,"D. Renda média, estável",0.159,4,2/9,Não prioritário
+Jordan,21.1,9470.0,2.93,8.04,inflation,"D. Renda média, estável",0.388,4,0/9,Não prioritário
+St. Vincent and the Grenadines,20.7,9920.0,4.44,4.47,,"D. Renda média, estável",0.451,3,0/9,Não prioritário
+Peru,20.3,9960.0,5.71,5.08,,"D. Renda média, estável",0.497,3,0/9,Não prioritário
+Brazil,19.8,14500.0,8.41,9.01,,"D. Renda média, estável",0.219,4,0/9,Não prioritário
+Panama,19.7,15400.0,2.59,8.1,,"D. Renda média, estável",0.262,4,0/9,Não prioritário
+El Salvador,19.2,7300.0,2.65,6.91,,"D. Renda média, estável",0.505,4,0/9,Não prioritário
+Turkey,19.1,18000.0,9.48,6.74,inflation,"D. Renda média, estável",0.283,4,0/9,Não prioritário
+Samoa,18.9,5400.0,1.72,6.47,,"D. Renda média, estável",0.416,4,0/9,Não prioritário
+Belize,18.8,7880.0,1.14,5.2,,"D. Renda média, estável",0.457,3,0/9,Não prioritário
+Colombia,18.6,10900.0,3.86,7.59,,"D. Renda média, estável",0.43,4,0/9,Não prioritário
+Armenia,18.1,6700.0,7.77,4.4,,"D. Renda média, estável",0.332,3,0/9,Não prioritário
+Jamaica,18.1,8000.0,9.81,4.81,,"D. Renda média, estável",0.259,3,0/9,Não prioritário
+Tonga,17.4,4980.0,3.68,5.07,,"D. Renda média, estável",0.357,3,0/9,Não prioritário
+Tunisia,17.4,10400.0,3.82,6.21,,"D. Renda média, estável",0.555,4,0/9,Não prioritário
+Albania,16.6,9930.0,4.49,6.55,,"D. Renda média, estável",0.537,4,0/9,Não prioritário
+Georgia,16.5,6730.0,8.55,10.1,,"D. Renda média, estável",0.099,4,2/9,Não prioritário
+China,15.7,9530.0,6.94,5.07,,"D. Renda média, estável",0.456,3,0/9,Não prioritário
+Mauritius,15.0,15900.0,1.13,6.0,,"D. Renda média, estável",0.398,4,0/9,Não prioritário
+Thailand,14.9,13500.0,4.08,3.88,,"D. Renda média, estável",0.398,3,0/9,Não prioritário
+Grenada,14.6,11200.0,0.48,5.86,,"D. Renda média, estável",0.44,4,0/9,Não prioritário
+Seychelles,14.4,20400.0,-4.21,3.4,,"D. Renda média, estável",0.249,2,0/9,Não prioritário
+Barbados,14.2,15300.0,0.32,7.97,,"D. Renda média, estável",0.088,4,0/9,Não prioritário
+Maldives,13.2,10500.0,2.88,6.33,,"D. Renda média, estável",0.47,4,0/9,Não prioritário
+Ukraine,11.7,7820.0,13.4,7.72,,"D. Renda média, estável",0.133,4,2/9,Não prioritário
+Romania,11.5,17800.0,3.53,5.58,,"D. Renda média, estável",0.379,4,0/9,Não prioritário
+Bulgaria,10.8,15300.0,1.11,6.87,,"D. Renda média, estável",0.196,4,0/9,Não prioritário
+Chile,10.55,19400.0,8.96,7.96,child_mort,"D. Renda média, estável",0.11,4,0/9,Não prioritário
+"Macedonia, FYR",10.4,11400.0,2.04,7.09,,"D. Renda média, estável",0.258,4,0/9,Não prioritário
+Antigua and Barbuda,10.3,19100.0,1.44,6.03,,"D. Renda média, estável",0.23,4,0/9,Não prioritário
+Lebanon,10.3,16300.0,0.24,7.03,,"D. Renda média, estável",0.087,4,0/9,Não prioritário
+Malaysia,7.9,21100.0,7.27,4.39,,"D. Renda média, estável",0.108,2,0/9,Não prioritário
+Gabon,63.7,15400.0,16.6,3.5,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",0.033,5,4/9,Revisar caso a caso
+Azerbaijan,39.2,16000.0,13.8,5.88,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",0.08,5,2/9,Não prioritário
+Indonesia,33.3,8430.0,15.3,2.61,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",0.1,5,3/9,Revisar caso a caso
+Algeria,27.3,12900.0,16.1,4.17,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",0.273,5,2/9,Não prioritário
+Kazakhstan,21.5,20100.0,19.5,4.29,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",0.366,5,2/9,Não prioritário
+Iran,19.3,17400.0,15.9,5.6,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",0.329,5,2/9,Não prioritário
+Venezuela,17.1,16500.0,96.0,4.91,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",0.155,5,2/9,Não prioritário
+Libya,16.6,29600.0,14.2,3.88,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",0.437,2,0/9,Não prioritário
+Saudi Arabia,15.7,45400.0,17.2,4.29,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",0.503,2,0/9,Não prioritário
+Argentina,14.5,18700.0,20.9,8.1,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",0.138,4,1/9,Não prioritário
+Oman,11.7,45300.0,15.6,2.77,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",0.488,2,0/9,Não prioritário
+Sri Lanka,11.2,8560.0,22.8,2.94,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",0.173,5,3/9,Revisar caso a caso
+Kuwait,10.8,75200.0,11.2,2.63,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",0.354,2,0/9,Não prioritário
+Brunei,10.5,80600.0,16.7,2.84,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",0.471,2,0/9,Não prioritário
+Russia,10.0,23100.0,14.2,5.08,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",0.343,2,0/9,Não prioritário
+Qatar,9.0,125000.0,6.98,1.81,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",0.192,2,0/9,Não prioritário
+Bahrain,8.6,41100.0,7.44,4.97,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",-0.042,2,0/9,Não prioritário
+United Arab Emirates,8.6,57600.0,12.5,3.66,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",0.39,2,0/9,Não prioritário
+Belarus,5.5,16200.0,15.1,5.61,,"E. Renda média-alta, inflação alta, pouco gasto em saúde",0.245,2,1/9,Não prioritário
+Bahamas,13.8,22900.0,-0.39,7.89,,F. Desenvolvidos,0.042,4,0/9,Não prioritário
+Uruguay,10.6,17100.0,4.91,8.35,,F. Desenvolvidos,0.001,4,0/9,Não prioritário
+Costa Rica,10.2,13000.0,6.57,10.9,,F. Desenvolvidos,0.211,4,0/9,Não prioritário
+Latvia,7.8,18300.0,-0.81,6.68,,F. Desenvolvidos,0.032,4,0/9,Não prioritário
+Serbia,7.6,12700.0,5.88,10.4,,F. Desenvolvidos,0.277,4,0/9,Não prioritário
+United States,7.3,49400.0,1.22,17.9,,F. Desenvolvidos,0.408,1,0/9,Não prioritário
+Slovak Republic,7.0,25200.0,0.48,8.79,,F. Desenvolvidos,0.47,1,0/9,Não prioritário
+Bosnia and Herzegovina,6.9,9720.0,1.4,11.1,,F. Desenvolvidos,0.341,4,0/9,Não prioritário
+Malta,6.8,28300.0,3.83,8.65,,F. Desenvolvidos,0.425,1,0/9,Não prioritário
+Montenegro,6.8,14000.0,1.6,9.11,,F. Desenvolvidos,0.348,1,0/9,Não prioritário
+New Zealand,6.2,32300.0,3.73,10.1,,F. Desenvolvidos,0.541,1,0/9,Não prioritário
+Lithuania,6.1,21100.0,2.38,7.04,,F. Desenvolvidos,0.197,1,0/9,Não prioritário
+Hungary,6.0,22300.0,2.33,7.33,,F. Desenvolvidos,0.276,1,0/9,Não prioritário
+Poland,6.0,21800.0,1.66,8.14,health,F. Desenvolvidos,0.408,1,0/9,Não prioritário
+Canada,5.6,40700.0,2.87,11.3,,F. Desenvolvidos,0.565,1,0/9,Não prioritário
+Croatia,5.5,20100.0,0.82,7.76,,F. Desenvolvidos,0.368,1,0/9,Não prioritário
+United Kingdom,5.2,36200.0,1.57,9.64,,F. Desenvolvidos,0.605,1,0/9,Não prioritário
+Australia,4.8,41400.0,1.16,8.73,,F. Desenvolvidos,0.574,1,0/9,Não prioritário
+Israel,4.6,29600.0,1.77,7.63,,F. Desenvolvidos,0.449,1,0/9,Não prioritário
+Belgium,4.5,41100.0,1.88,10.7,,F. Desenvolvidos,0.615,1,0/9,Não prioritário
+Estonia,4.5,22700.0,1.74,6.03,,F. Desenvolvidos,0.151,1,0/9,Não prioritário
+Netherlands,4.5,45500.0,0.85,11.9,,F. Desenvolvidos,0.569,1,0/9,Não prioritário
+Switzerland,4.5,55500.0,0.32,11.5,,F. Desenvolvidos,0.578,1,0/9,Não prioritário
+Austria,4.3,43200.0,0.87,11.0,,F. Desenvolvidos,0.612,1,0/9,Não prioritário
+France,4.2,36900.0,1.05,11.9,,F. Desenvolvidos,0.571,1,0/9,Não prioritário
+Germany,4.2,40400.0,0.76,11.6,,F. Desenvolvidos,0.589,1,0/9,Não prioritário
+Ireland,4.2,45700.0,-3.22,9.19,,F. Desenvolvidos,0.545,1,0/9,Não prioritário
+Denmark,4.1,44000.0,3.22,11.4,,F. Desenvolvidos,0.578,1,0/9,Não prioritário
+South Korea,4.1,30400.0,3.16,6.93,,F. Desenvolvidos,0.345,1,0/9,Não prioritário
+Italy,4.0,36200.0,0.32,9.53,,F. Desenvolvidos,0.626,1,0/9,Não prioritário
+Greece,3.9,28700.0,0.67,10.3,,F. Desenvolvidos,0.617,1,0/9,Não prioritário
+Portugal,3.9,27200.0,0.64,11.0,,F. Desenvolvidos,0.595,1,0/9,Não prioritário
+Spain,3.8,32500.0,0.16,9.54,,F. Desenvolvidos,0.622,1,0/9,Não prioritário
+Cyprus,3.6,33900.0,2.01,5.97,,F. Desenvolvidos,0.257,1,0/9,Não prioritário
+Czech Republic,3.4,28300.0,-1.43,7.88,,F. Desenvolvidos,0.489,1,0/9,Não prioritário
+Japan,3.2,35800.0,-1.9,9.49,,F. Desenvolvidos,0.591,1,0/9,Não prioritário
+Norway,3.2,62300.0,5.95,9.48,,F. Desenvolvidos,0.512,1,0/9,Não prioritário
+Slovenia,3.2,28700.0,-0.99,9.41,,F. Desenvolvidos,0.594,1,0/9,Não prioritário
+Finland,3.0,39800.0,0.35,8.95,,F. Desenvolvidos,0.599,1,0/9,Não prioritário
+Sweden,3.0,42900.0,0.99,9.63,,F. Desenvolvidos,0.62,1,0/9,Não prioritário
+Luxembourg,2.8,91700.0,3.62,7.77,,F. Desenvolvidos,0.449,1,0/9,Não prioritário
+Singapore,2.8,72100.0,-0.05,3.96,,F. Desenvolvidos,0.144,2,0/9,Não prioritário
+Iceland,2.6,38800.0,5.47,9.4,,F. Desenvolvidos,0.528,1,0/9,Não prioritário
